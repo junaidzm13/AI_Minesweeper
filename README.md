@@ -1,6 +1,6 @@
 # AI_Minesweeper
 
-#### Wrote an AI to play minsweeper as intelligently as possible.
+#### Developed an AI to play minsweeper as intelligently as possible.
 
 For more information regarding Minsweeper please visit [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)).
 
